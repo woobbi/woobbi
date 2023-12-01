@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **woobbi/woobbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+
+  ![header](
+  https://capsule-render.vercel.app/api?type=Venom&text=Woobbi&fontColor=d6ace6&stroke=000000&strokeWidth=3
+  )
+</div>
